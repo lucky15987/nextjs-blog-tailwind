@@ -16,7 +16,7 @@ export default function Home() {
         <h1 className="font-bold text-5xl">
           Read{' '}
           <Link href="/posts/first-post">
-            <a>This Page! </a>
+            <a className='text-blue-400 underline'>This Page! </a>
           </Link>
           Learn <a className="text-blue-400" href="https://nextjs.org">Next.js!</a>
         </h1>
