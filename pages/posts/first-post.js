@@ -1,3 +1,9 @@
 export default function FirstPost() {
-    return <h1>First Post</h1>;
+    return (
+        <div>
+            <h1 className="text-4xl underline font-bold">
+                First Post
+            </h1>
+        </div>
+    );
   }
