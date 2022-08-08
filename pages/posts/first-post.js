@@ -6,6 +6,7 @@ export default function FirstPost() {
         <>
             <Head>
                 <title>First Post</title>
+                <script src="https://connect.facebook.net/en_US/sdk.js"/>
             </Head>
             <h1 className='font-bold text-5xl'>First Post</h1>
             <h2>
