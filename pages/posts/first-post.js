@@ -19,7 +19,7 @@ export default function FirstPost() {
             <h1 className='font-bold text-5xl'>First Post</h1>
             <h2>
                 <Link href="/">
-                    <a className='text-4xl underline'>Back to Home</a>
+                    <a className='text-4xl font-bold'>Back to Home</a>
                 </Link>
             </h2>
         </Layout>
